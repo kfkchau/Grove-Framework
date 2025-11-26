@@ -41,7 +41,8 @@ By applying binary logic (present/absent) to each of the three elements (Threat,
 2. Name the **actor + threat pathway** (plain language; add ATT&CK IDs if you want).
 3. Sketch the **bowtie**: pre-event (Predict/Prevent/Control) → **Event** → post-event (Disrupt).
 4. Score **control adequacy (0–3)** on 3–7 *pathway-cutting* controls (add evidence & confidence).
-5. Decide **one change** that collapses the pathway or automates disruption; record owner/due/metric.
+5. Map out the **scenario matrix**
+6. Decide **three change** that collapses the pathway or automates disruption; record owner/due/metric.
 
 ---
 
