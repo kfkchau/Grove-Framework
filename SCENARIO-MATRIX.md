@@ -4,11 +4,11 @@ This section enumerates the seven operationally relevant scenarios derived from 
 
 ## 2. Seven-Scenario Matrix: Exhaustive Risk States
 
-| Scenario | Threat | Vulnerability | Asset | Risk Level | Example                                | Strategic Action             |
+| Priority | Threat | Vulnerability | Asset | Risk Level | Example                                | Strategic Action             |
 |----------|--------|---------------|-------|------------|----------------------------------------|------------------------------|
 | 1        | ✅     | ✅            | ✅    | High       | Unlocked office with sensitive documents | Deploy controls immediately  |
 | 2        | ❌     | ✅            | ✅    | Medium     | Unsecured area with no known threat     | Investigate & prepare        |
-| 3        | ✅     | ❌            | ✅    | Low        | Locked server room with known threat actor | Maintain vigilance        |
+| 3        | ✅     | ❌            | ✅    | Low        | Locked server room with known threat | Maintain vigilance        |
 | 4        | ❌     | ❌            | ✅    | Minimal    | Secured asset with no threat            | Monitor for changes          |
 | 5        | ✅     | ✅            | ❌    | No Risk    | Threat actor targeting non-existent asset | Maintain threat awareness |
 | 6        | ❌     | ❌            | ❌    | No Risk    | Controls in place but no asset or threat | Reassess control necessity |
